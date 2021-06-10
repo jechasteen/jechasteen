@@ -7,6 +7,7 @@ I'm a self-taught developer living in Dayton, OH.
 * JavaScript (Node JS and Vanilla)
 * Rust
 * C++
+* Python
 
 #### Frameworks
 
@@ -19,4 +20,3 @@ I'm a self-taught developer living in Dayton, OH.
 
 * Package Maintainer on Arch Linux AUR
 * Musician: Vox, Guitar, Horns
-* Linux Enthusiast
